@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> 
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> I'm Osman 
+</h1>
+
+<h2 align="center"> 
+  I'm a Web Developer from TURKEY <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/314/flag-turkey_1f1f9-1f1f7.png" width="30px" />
+</h2>
 
 <!--
 **OsmanOnat/OsmanOnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&langs_count=5&theme=tokyonight)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&layout=compact)]()
