@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&langs_count=5&theme=tokyonight)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&layout=compact)]()
