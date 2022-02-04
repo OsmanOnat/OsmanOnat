@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 <br />
-[![GitHub Views](https://komarev.com/ghpvc/?username=osmanonat&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=OsmanOnat&color=FAC151)][1]
 
 <br />
 <div align="center">
