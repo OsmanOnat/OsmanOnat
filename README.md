@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 <br />
-<img src="https://komarev.com/ghpvc/?username=osmanonat&color=green">
+<!---<img src="https://komarev.com/ghpvc/?username=osmanonat&color=green">----->
 <br />
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
