@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 <br />
 <!---<img src="https://komarev.com/ghpvc/?username=osmanonat&color=green">----->
 <br />
+<strong> 
+I’m currently learning 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+</strong>
+<br />
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanonat&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <!--<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />-->
