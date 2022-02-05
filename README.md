@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <br />
 <strong> 
 I’m currently learning 
+  <br />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </strong>
