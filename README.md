@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 <br />
-<!---<img src="https://komarev.com/ghpvc/?username=osmanonat&color=green">----->
+<img src="https://komarev.com/ghpvc/?username=osmanonat&color=green">
 <br />
 <div align="center">
 <strong> 
 I’m currently learning 
   <br />
-<!-----<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">---->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </strong>
 </div>
